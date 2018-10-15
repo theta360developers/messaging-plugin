@@ -2,9 +2,9 @@
 
 by [ue ue](https://qiita.com/ueue)
 
-![line plugin](docs/img/line-plugin.jpg)
+![line plugin](docs/img/line-plugin.png)
 
-![line api](docs/img/line-api.jpg)
+![line api](docs/img/line-api.png)
 
     curl -v -X POST https://api.line.me/v2/bot/message/push \
     -H 'Content-Type:application/json' \
